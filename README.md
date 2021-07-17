@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkpriya
 - 👀 I’m interested in Fullstack development with a focus on JavaScript, HTML, CSS and Python
 - 🌱 I’m currently learning JavaScript and ReactJS
-- 💞️ I’m looking to collaborate on web development, but a little later as I am only beginning now
+- 💞️ I’m looking to collaborate on web development, but a little later as I am just beginning now
 - 📫 How to reach me ... jkpriya06@gmail.com
 
 <!---
